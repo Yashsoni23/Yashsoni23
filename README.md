@@ -16,4 +16,3 @@ Welcome to my GitHub profile! I'm Yash Simejiya, a passionate software developer
 ---
 [![](https://visitcount.itsvg.in/api?id=yashsoni23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
