@@ -1,18 +1,24 @@
-# Hi there! 👋
 
-Welcome to my GitHub profile! I'm Yash Simejiya, a passionate software developer with a diverse tech stack. Let's connect and explore together!
+&nbsp;<div align="center">
+ [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify)](https://open.spotify.com/user/to6rms2g0fzerpkwox1k4v33w)
+</div>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=Hey%2C+Nice+to+meet+you!" alt="Typing SVG" /></h1>
+<p align="center" style="margin-top: 50px;">Hey, My self-Yash Simejiya. I am a first-year student, pursuing my bachelor's in computer application (major in computer science) from Silver Oak University. I am enthusiastic about Software Development with full of curiosity. 
+<p align="center" style="margin-top: 50px;">
+Currently, I working as a Junior Software engineer in India's first Robotics Gallery Science City. Apart from my studies, I'm also a member of the palm tree club and a GDSC Core Team Member at Silver Oak University.<br/><a href="https://yashsimejiya.netlify.app" align="center">visit this</a></p></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-simejiya-8288a6225/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@iyashsimejiya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@iyashsimejiya) 
+<div align="center" style="margin-top: 50px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/NextJs-6610F2?style=for-the-badge&logo=react&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/React-06B0DB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/C++-764ABC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/Flutter-97CA00?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010"/>
+</div>
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+<h2 align="center" style="margin-top: 50px;">Status</h2>
+<p align="center">
+<img style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=yashsoni23&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=050810"/>
+</p>
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashsoni23&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashsoni23&theme=blue-green&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsoni23&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=yashsoni23&icon=0&color=0)](https://visitcount.itsvg.in)
-
+# Support Me
+<a href="https://www.buymeacoffee.com/yashsoni" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
