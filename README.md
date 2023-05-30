@@ -1,6 +1,6 @@
 
 &nbsp;<div align="center">
- [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify)](https://open.spotify.com/user/to6rms2g0fzerpkwox1k4v33w)
+ [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify)](https://open.spotify.com/user/efy24019eie30q86b3mplxoju)
 </div>
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=Hey%2C+Nice+to+meet+you!" alt="Typing SVG" /></h1>
 <p align="center" style="margin-top: 50px;">Hey, My self-Yash Simejiya. I am a first-year student, pursuing my bachelor's in computer application (major in computer science) from Silver Oak University. I am enthusiastic about Software Development with full of curiosity. 
